@@ -1,0 +1,4 @@
+{
+  "queue": "com.example.queue.AppSyncQueueClient",
+  "playback": "com.example.queue.PlaybackClient"
+}

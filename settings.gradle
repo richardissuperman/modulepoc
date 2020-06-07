@@ -1,0 +1,2 @@
+include ':app', ':base', ':queue'
+rootProject.name='moduledemo'
